@@ -2,9 +2,4 @@
 
 This is a really awesome website!
 
-Now I try to make this a final tweak
-<<<<<<< HEAD
-=======
-
-this is really final
->>>>>>> remove-ipsum
+Try rebase changes to see how it happens.
